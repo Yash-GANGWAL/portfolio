@@ -98,7 +98,7 @@
   
   .phoneScreen {
     width: 264px;
-    height: 567px;
+    height: 100%;
     position: absolute;
     top: 17px;
     left: 18px;
